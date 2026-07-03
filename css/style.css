@@ -1,0 +1,24 @@
+.brand {
+  font-size: 2.3rem;
+  line-height: 1.2;
+  margin: 0 0 0.5rem;
+}
+
+nav {
+  display: flex;
+  gap: 10px;
+}
+
+#navbar {
+  background: pink;
+  color: white;
+  text-align: center;
+  padding-top: 0.5rem;
+}
+
+a {
+  color: red;
+  padding: 0.25rem;
+  text-decoration: none;
+  text-decoration: underline;
+}
